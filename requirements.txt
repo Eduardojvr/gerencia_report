@@ -2,6 +2,6 @@ Django==2.0.4
 gunicorn==19.8.1
 Pillow==5.1.0
 pytz==2018.4
-reportlab==3.4.0
+reportlab==3.5.55
 XlsxWriter==1.0.5
 
